@@ -1093,3 +1093,7 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.10.23-04.30.02:086][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 33db33f7fe489e038bea252b229b446ad3564b2b), compiling. 
 [2025.10.23-04.30.04:203][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2025.10.23-04.31.57:200][  0]LogDerivedDataCache: C:/Users/2501636/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-04.35.38:973][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 48, format PCD3D_SM6) compile time exceeded threshold (31.839s)
+[2025.10.23-04.36.33:196][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 56, format PCD3D_SM6) compile time exceeded threshold (38.956s)
+[2025.10.23-04.37.01:455][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 58, format PCD3D_SM6) compile time exceeded threshold (36.418s)
+[2025.10.23-04.37.50:811][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 57, format PCD3D_SM6) compile time exceeded threshold (42.312s)
